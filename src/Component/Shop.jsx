@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 function Shop() {
   return (
     <section>
-      <Navbar/>
+        shop
     </section>
   )
 }

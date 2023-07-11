@@ -6,7 +6,7 @@ function Game() {
   return (
 
     <div>
-    <Navbar/>
+
     <h1>hkjghk</h1>
     </div>
   )

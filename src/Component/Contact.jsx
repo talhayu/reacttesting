@@ -5,7 +5,7 @@ function Contact() {
   return (
 
     <section>
-      <Navbar/>
+        contact
     </section>
   )
 }
